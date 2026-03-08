@@ -1,0 +1,9 @@
+taipy
+insightface
+onnxruntime
+faiss-cpu
+opencv-python-headless
+Pillow
+numpy
+scikit-learn
+matplotlib
